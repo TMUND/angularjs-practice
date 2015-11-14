@@ -1,6 +1,6 @@
 angular.module('app').controller("MainController",  function() {
 	var vm = this;
-	vm.title = 'Toni you son of a beetch';
+	vm.title = 'Add & Sort Movies';
 	vm.searchInput = '';
 	vm.shows = [
 		{
